@@ -2,7 +2,7 @@
   "name": "shvirohub-studio-pro",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3000",
+    "dev": "next dev -p 5173",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",

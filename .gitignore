@@ -13,7 +13,8 @@ out/
 !*.example
 
 # misc
-.DS_Storenode_modules
+.DS_Store
+node_modules/
 .env
 .env.local
 *.env*
